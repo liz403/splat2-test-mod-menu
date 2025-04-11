@@ -5,7 +5,7 @@ Thanks Shadów and Haxxie for exlaunch and imgui-nvn. Uses [oead](https://github
 Uses patches based on SHUT 5.5.0 public patches
 
 **Building:**
-1. Install DevKitPro and all Switch dependencies into your favorite Linux distro (or WSL)
+1. Install DevKitPro as well as all Switch dependencies (see [Atmosphère docs](https://github.com/Atmosphere-NX/Atmosphere/blob/master/docs/building.md)) into your favorite Linux distro (or WSL)
 2. Download this repo into a folder named `imgui-nvn`
  ```bash
 #Example, use whatever path you want as long as the folder is imgui-nvn
