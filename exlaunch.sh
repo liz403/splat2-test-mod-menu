@@ -13,7 +13,7 @@ export ELF_EXTRACT=""
 # Python command to use. Must be Python 3.4+.
 export PYTHON="python3"
 # Make arguments.
-export MAKE_ARGS="-j8"
+export MAKE_ARGS="-j20"
 # JSON to use to make .npdm
 export NPDM_JSON="qlaunch.json"
 # Additional C/C++ flags to use.
