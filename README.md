@@ -7,10 +7,10 @@ Uses patches based on SHUT 5.5.0 public patches
 **Building:**
 1. Install DevKitPro and all Switch dependencies into your favorite Linux distro (or WSL)
 2. Download this repo into a folder named `imgui-nvn`
-3. ```bash
+ ```bash
    #Example
    mkdir -p ~/Documents/Projects/splat2-test-mod-menu/imgui-nvn/
    git clone https://github.com/liz403/splat2-test-mod-menu.git ~/Documents/Projects/splat2-test-mod-menu/imgui-nvn/
    ```
-4. Change whatever you want in the configs or code
-5. Run `./exlaunch.sh clean && ./exlaunch.sh build`
+3. Change whatever you want in the configs or code
+4. Run `./exlaunch.sh clean && ./exlaunch.sh build`
