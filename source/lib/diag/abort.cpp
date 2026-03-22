@@ -37,7 +37,7 @@ namespace exl::diag {
             /* We have no capability of chainloading payloads on mariko. */
             /* Don't have a great solution for this at the moment, just data abort. */
             /* TODO: maybe write to a file? custom fatal program? */
-            register u64 addr __asm__("x27") = 0x6969696969696969;
+            register u64 addr __asm__("x27") = 0;
             register u64 val __asm__("x28")  = ctx.m_Result;
             while (true) {
                 __asm__ __volatile__ (

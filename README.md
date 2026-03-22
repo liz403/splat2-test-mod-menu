@@ -14,3 +14,9 @@ git clone https://github.com/Hana2736/splat2-test-mod-menu.git /home/hana/Docume
    ```
 3. Change whatever you want in the configs or code
 4. Run `./exlaunch.sh clean && ./exlaunch.sh build`
+
+---
+
+### **📚 Zusätzliche Dokumentation**
+Für detaillierte Informationen über Steuerung, Features (RAM Stabilizer, Beta Loader) und den Build-Prozess, siehe:
+👉 **[MOD_DOKUMENTATION.md](MOD_DOKUMENTATION.md)**
